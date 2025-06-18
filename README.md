@@ -44,6 +44,30 @@ Get Groq key
 
 Get Unsplash key
 
+💡 How to Use
+
+Enter a scene prompt (e.g., “A robot time travels to the dinosaur era”)
+
+Choose:
+
+Comic style (funny, sci-fi, noir, etc.)
+
+Characters (comma-separated names)
+
+Number of panels (1–4)
+
+Click Generate Comic
+
+View:
+
+Script
+
+First panel image
+
+Narration (audio)
+
+Downloadable PDF
+
 
 
 
