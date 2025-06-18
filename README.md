@@ -44,7 +44,7 @@ Get Groq key
 
 Get Unsplash key
 
-##💡 How to Use
+**💡 How to Use**
 
 Enter a scene prompt (e.g., “A robot time travels to the dinosaur era”)
 
