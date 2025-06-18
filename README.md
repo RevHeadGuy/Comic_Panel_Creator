@@ -33,9 +33,18 @@ Create AI-generated comic strips from simple prompts using large language models
 1. **Clone or open in Colab:**
  
 2. **Install dependencies:**
+   
+3. ** Add API Keys:In the notebook:**
 
-Already included in the notebook:
-```python
-!pip install openai==0.28 gradio requests pillow fpdf gTTS
+GROQ_API_KEY = "your_groq_api_key"
+
+UNSPLASH_ACCESS_KEY = "your_unsplash_api_key"
+
+Get Groq key
+
+Get Unsplash key
+
+
+
 
 
