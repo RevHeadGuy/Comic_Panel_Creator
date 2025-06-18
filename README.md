@@ -31,4 +31,11 @@ Create AI-generated comic strips from simple prompts using large language models
 ## 🔧 Setup Instructions
 
 1. **Clone or open in Colab:**
+ 
+2. **Install dependencies:**
+
+Already included in the notebook:
+```python
+!pip install openai==0.28 gradio requests pillow fpdf gTTS
+
 
